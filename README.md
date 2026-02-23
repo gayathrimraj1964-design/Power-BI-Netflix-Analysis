@@ -11,8 +11,6 @@ release years, and country-wise availability.
 - DAX
 - Netflix Dataset (CSV)
 
- (‘)
-
 ## Key Insights
 - Total Movies and TV Shows
 - Movies vs TV Shows comparison
